@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "PT Sans", sans-serif;
+}
+
+.home,
+.consulting,
+.contactus,
+.design,
+.development,
+.marketing,
+.products,
+.services,
+.signup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  font-size: 4rem;
+  background-position: center;
+  background-repeat: none;
+  background-size: cover;
+  text-shadow: 4px 4px 4px #fff;
+}
+.home {
+   background-color: rgb(151, 197, 181);
+}
+
+.consulting {
+  background-color: rgb(151, 197, 181);
+}
+
+.design {
+  background-color: rgb(151, 197, 181);
+}
+
+.development {
+  background-color: rgb(151, 197, 181);
+}
+
+.marketing {
+  background-color: rgb(151, 197, 181);
+}
+
+.products {
+  background-color: rgb(151, 197, 181);
+}
+
+.contactus {
+  background-color: rgb(151, 197, 181);
+}
+
+.services {
+  background-color: rgb(151, 197, 181);
+}
+
+.signup {
+  background-color: rgb(151, 197, 181);
+}
